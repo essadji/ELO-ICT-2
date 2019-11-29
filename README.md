@@ -1,4 +1,4 @@
-# ELO-ICT-2-
+# ELO-ICT-2
 angular exercises
 
 1) oefening beschrijven
